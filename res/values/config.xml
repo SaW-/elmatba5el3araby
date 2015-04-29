@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- To show Ads you must type your Ad Unit Id. If you don't want ads leave blank. -->
+    <string name="admob_unit_id" translatable="false">ca-app-pub-2775390989480933/9679055002</string>
+
+    <!-- Whether to show preparation time in recipes list and details. -->
+    <!-- true - show -->
+    <!-- false - don't show -->
+    <bool name="show_prep_time">true</bool>
+
+    <!-- Whether to show cooking time in recipes list and details. -->
+    <!-- true - show -->
+    <!-- false - don't show -->
+    <bool name="show_cook_time">true</bool>
+
+    <!-- Whether to show total time in recipes list and details. -->
+    <!-- true - show -->
+    <!-- false - don't show -->
+    <bool name="show_total_time">true</bool>
+
+    <!-- Whether to show servings in recipes list and details. -->
+    <!-- true - show -->
+    <!-- false - don't show -->
+    <bool name="show_servings">true</bool>
+    
+	<!-- System notifications interval in hours. To disable notifications type 0 or leave empty -->
+    <integer name="notifications_interval">22</integer>
+
+    <!--
+    ContentProvider authorities, need to replace the text "eu.masconsult.template.recipes" 
+    to match the package name from your AndroidManifest.xml
+    -->
+    <string name="search_suggestions_authority" translatable="false">com.aliensoft.elmatba5el3araby.content.suggestionprovider</string>
+    <string name="recipes_content_authority" translatable="false">com.aliensoft.elmatba5el3araby.content.recipesdb</string>
+
+    <!--
+    Google Analytics tracking ID. https://support.google.com/analytics/answer/2614741
+     -->
+    <string name="ga_trackingId" translatable="false">UA-39828534-4</string>
+</resources>

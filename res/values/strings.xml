@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <string name="app_name">المطبخ العربي</string>
+    <string name="title_recipeitem_list">وصفة الأصناف</string>
+    <string name="title_recipeitem_detail">تفاصيل وصفة عناصر</string>
+    <string name="preparation_time">التحضير:</string>
+    <string name="cook_time">طبخ:</string>
+    <string name="min">دقيقة.</string>
+    <string name="summary">الملخص</string>
+    <string name="ingredients">المكونات</string>
+    <string name="directions">طريقة العمل</string>
+    <string name="search">بحث</string>
+    <string name="search_recipe">بحث وصفة</string>
+    <string name="prep">تحضير</string>
+    <string name="cook">طبخ</string>
+    <string name="total">إجمالي</string>
+    <string name="serves">تكفى</string>
+    <string name="no_results">لا توجد نتائج</string>
+    <string name="no_data">لايوجد بيانات</string>
+    <string name="search_recipies">بحث وصفات</string>
+    <string name="all_recipes">جميع وصفات</string>
+    <string name="favorites">المفضلة</string>
+    <string name="add_to_favorites">أضف الى المفضلة</string>
+    <string name="select_recipe_from_the_list">اختر صفة من القائمة</string>
+    <string name="share">مشاركة</string>
+    <string name="share_via">مشاركة عبر</string>
+
+</resources>
